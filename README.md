@@ -1,1 +1,7 @@
-# video-action-recognition
+# **Video Action Recognition Using Pytorch.**
+
+Pytorch based Video Action Recognition on the UCF101 Dataset. 
+
+## Dataset ##
+
+The UCF101 Dataset is 
